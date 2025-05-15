@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mithilajmt7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AtdQyBmyV9BRj8_NYywum4QSW2lpFy6t/view?usp=sharing](https://drive.google.com/file/d/1AtdQyBmyV9BRj8_NYywum4QSW2lpFy6t/view?usp=sharing)
+- 📄 Know about me [https://drive.google.com/file/d/1AtdQyBmyV9BRj8_NYywum4QSW2lpFy6t/view?usp=sharing](https://drive.google.com/file/d/1AtdQyBmyV9BRj8_NYywum4QSW2lpFy6t/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
