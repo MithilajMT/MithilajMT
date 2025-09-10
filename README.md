@@ -1,29 +1,69 @@
-# Mithilaj
+# Hi there, I'm Mithilaj 👋
 
-<h1 align="center">Hi 👋, I'm Mithilaj MT</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+I'm a **skilled fresher** and passionate **MERN + TypeScript developer** who loves building web applications and solving problems. I’m currently expanding my skills with **Next.js** and exploring more modern tools and technologies.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mithilajmt&label=Profile%20views&color=0e75b6&style=flat" alt="mithilajmt" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mithilajmt" alt="mithilajmt" /></a> </p>
+## 🚀 About Me
 
-- 💬 Ask me about **MERN Stack**
+- 🎓 Pursuing growth as a developer through real projects and continuous learning.
+- 💻 Experienced in building **full-stack applications** using the **MERN stack with TypeScript**.
+- 📂 Completed **2 full-stack projects** with practical features like user authentication, role-based access, and API handling.
+- 🔥 Currently doing an **internship at Techbeee Technologies**, applying what I’ve learned in real-world projects.
+- 🌱 Actively learning **Next.js**, advanced state management, and best practices in web development.
+- 🛠 Exploring design patterns, efficient error handling, and scalable architecture.
 
-- 📫 How to reach me **mithilajmt7@gmail.com**
+---
 
-- 📄 Know about me [https://drive.google.com/file/d/1AtdQyBmyV9BRj8_NYywum4QSW2lpFy6t/view?usp=sharing](https://drive.google.com/file/d/1AtdQyBmyV9BRj8_NYywum4QSW2lpFy6t/view?usp=sharing)
+## 🛠 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mithilajmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mithilajmt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mithilaj-mt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mithilaj-mt" height="30" width="40" /></a>
-<a href="https://fb.com/mithilaj.mt.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mithilaj.mt.3" height="30" width="40" /></a>
-<a href="https://instagram.com/_mj_hn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mj_hn_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mithilajmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mithilajmt" height="30" width="40" /></a>
-</p>
+**Frontend:**
+- React.js, Next.js (in progress)
+- TypeScript
+- Redux Toolkit (RTK Query)
+- React Hook Form, Zod, shadcn/ui
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Backend:**
+- Node.js, Express.js
+- MongoDB, Mongoose
+- JWT Authentication, OTP verification
+- Repository Pattern for clean code structure
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithilajmt&show_icons=true&locale=en&layout=compact" alt="mithilajmt" /></p>
+**Tools & Others:**
+- Git & GitHub
+- VSCode
+- Firebase (for image storage and hosting)
+- Postman, Insomnia (for API testing)
 
+---
+
+## ✅ Projects
+
+### 🟢 E-Commerce Web App
+- Built with **MERN stack + TypeScript**
+- Features: product management, shopping cart, user authentication, role-based access
+- Solved challenges related to state management and hosting errors
+
+### 🟢 Hotel Booking Platform
+- Built with **MERN stack**
+- Features: resort listings, booking flow, reviews, maps integration
+- Working on improving booking efficiency and UX
+
+---
+
+## 📚 Currently Learning
+- **Next.js** – Server-side rendering, API routes, performance optimization
+- Authentication strategies with access tokens & refresh tokens
+- Advanced TypeScript typing and error handling without `any` or `unwrap`
+- Implementing best practices in repository pattern architecture
+
+---
+
+## 📫 Get in Touch
+Feel free to connect with me or check my work!
+
+- 🔗 [GitHub](https://github.com/MithilajMT)
+- 📧 mithilajmt7@gmail.com
+---
+
+### 🚀 "Learning, building, and growing — one commit at a time."
