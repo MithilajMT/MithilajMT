@@ -65,11 +65,17 @@ I'm a **skilled fresher** and passionate **MERN + TypeScript developer** who lov
 
 ---
 
-## 📫 Get in Touch
-Feel free to connect with me or check my work!
+## 📊 GitHub Stats & Connect
 
-- 🔗 [GitHub](https://github.com/MithilajMT)
-- 📧 mithilajmt7@gmail.com
+![MithilajMT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MithilajMT&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MithilajMT-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithilaj-mt/)
+
+[![Email](https://img.shields.io/badge/Email-mithilajmt7%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithilajmt7@gmail.com)
 ---
 
 ### 🚀 "Learning, building, and growing — one commit at a time."
